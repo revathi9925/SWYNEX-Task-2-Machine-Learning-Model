@@ -1,0 +1,8 @@
+SWYNEX TASK 2 - MODEL RESULTS
+============================
+
+              Model  Accuracy  Precision  Recall  F1 Score  ROC-AUC
+Logistic Regression    0.8156     0.8103  0.6812    0.7402   0.8498
+      Random Forest    0.8045     0.7576  0.7246    0.7407   0.8238
+
+Best Model based on F1 Score: Random Forest
